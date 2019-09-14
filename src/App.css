@@ -2,32 +2,6 @@
     text-align: center;
 }
 
-
-/*
-.Container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: space-between;
-    width: 100%;
-}
-
-.Poland {
-    height: 10px;
-    width: 50px;
-}
-
-.Austria {
-    height: 10px;
-    width: 50px;
-}
-
-.France {
-    height: 10px;
-    width: 50px;
-}
-*/
-
 .App-header {
     background-color: #282c34;
     min-height: 10vh;

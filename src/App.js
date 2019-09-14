@@ -15,34 +15,30 @@ class App extends Component {
         </header>
 
 
-        <div className="Container">
 
-
-          <div className="Poland">
-            <Travel
+                      <Travel
               destination="Warsaw"
               country="Poland"
               distance="1000 km"
               image={Warsaw}
             />
-          </div>
-          <div className="Austria">
+          
+          
           <Travel
             destination="Wien"
             country="Austria"
             distance="850 km"
             image={Wien}
           />
-        </div>
-        <div className="France">
+      
           <Travel
             destination="Paris"
             country="France"
             distance="1900 km"
             image={Paris}
           />
-        </div>
-      </div>
+        
+      
 </div>
     );
   }
