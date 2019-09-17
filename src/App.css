@@ -1,5 +1,6 @@
 .App {
     text-align: center;
+    background-color: skyblue
 }
 
 .App-header {
@@ -19,4 +20,20 @@
     to {
         transform: rotate(360deg);
     }
+}
+
+.Image {
+    display: inline-block;
+    width: 350px;
+    height: 350px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+
+.Details {
+    font-weight: bold;
+    color: black;
+    text-align: center;
 }
